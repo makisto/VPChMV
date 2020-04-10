@@ -1,0 +1,33 @@
+C:\Users\ilja-\Downloads\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\ilja-\Downloads\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\ilja-\Downloads\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\ilja-\Downloads\Lab1\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+C:\Users\ilja-\Downloads\Lab1\Lab1\obj\Debug\Lab1.Form1.resources
+C:\Users\ilja-\Downloads\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+C:\Users\ilja-\Downloads\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+C:\Users\ilja-\Downloads\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\ilja-\Downloads\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\ilja-\Downloads\Lab1\Lab1\obj\Debug\Lab1.pdb
+C:\Users\ilja-\Downloads\Lab1\Lab1\obj\Debug\Lab1.AddNewItem.resources
+E:\СибГУТИ\2 курс\4 семестр\ВПиЧМВ\Lab1\Lab1\bin\Debug\Lab1.exe.config
+E:\СибГУТИ\2 курс\4 семестр\ВПиЧМВ\Lab1\Lab1\bin\Debug\Lab1.exe
+E:\СибГУТИ\2 курс\4 семестр\ВПиЧМВ\Lab1\Lab1\bin\Debug\Lab1.pdb
+E:\СибГУТИ\2 курс\4 семестр\ВПиЧМВ\Lab1\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+E:\СибГУТИ\2 курс\4 семестр\ВПиЧМВ\Lab1\Lab1\obj\Debug\Lab1.Form1.resources
+E:\СибГУТИ\2 курс\4 семестр\ВПиЧМВ\Lab1\Lab1\obj\Debug\Lab1.AddNewItem.resources
+E:\СибГУТИ\2 курс\4 семестр\ВПиЧМВ\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+E:\СибГУТИ\2 курс\4 семестр\ВПиЧМВ\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+E:\СибГУТИ\2 курс\4 семестр\ВПиЧМВ\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+E:\СибГУТИ\2 курс\4 семестр\ВПиЧМВ\Lab1\Lab1\obj\Debug\Lab1.exe
+E:\СибГУТИ\2 курс\4 семестр\ВПиЧМВ\Lab1\Lab1\obj\Debug\Lab1.pdb
+H:\СибГУТИ\2 курс\4 семестр\ВПиЧМВ\Lab1\Lab1\bin\Debug\Lab1.exe.config
+H:\СибГУТИ\2 курс\4 семестр\ВПиЧМВ\Lab1\Lab1\bin\Debug\Lab1.exe
+H:\СибГУТИ\2 курс\4 семестр\ВПиЧМВ\Lab1\Lab1\bin\Debug\Lab1.pdb
+H:\СибГУТИ\2 курс\4 семестр\ВПиЧМВ\Lab1\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+H:\СибГУТИ\2 курс\4 семестр\ВПиЧМВ\Lab1\Lab1\obj\Debug\Lab1.Form1.resources
+H:\СибГУТИ\2 курс\4 семестр\ВПиЧМВ\Lab1\Lab1\obj\Debug\Lab1.AddNewItem.resources
+H:\СибГУТИ\2 курс\4 семестр\ВПиЧМВ\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+H:\СибГУТИ\2 курс\4 семестр\ВПиЧМВ\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+H:\СибГУТИ\2 курс\4 семестр\ВПиЧМВ\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+H:\СибГУТИ\2 курс\4 семестр\ВПиЧМВ\Lab1\Lab1\obj\Debug\Lab1.exe
+H:\СибГУТИ\2 курс\4 семестр\ВПиЧМВ\Lab1\Lab1\obj\Debug\Lab1.pdb

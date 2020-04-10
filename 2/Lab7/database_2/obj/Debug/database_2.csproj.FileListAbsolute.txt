@@ -1,0 +1,10 @@
+C:\Users\TryLessFold\source\repos\database_2\database_2\bin\Debug\Database1.mdb
+C:\Users\TryLessFold\source\repos\database_2\database_2\bin\Debug\database_2.exe
+C:\Users\TryLessFold\source\repos\database_2\database_2\bin\Debug\database_2.pdb
+C:\Users\TryLessFold\source\repos\database_2\database_2\obj\Debug\database_2.csprojAssemblyReference.cache
+C:\Users\TryLessFold\source\repos\database_2\database_2\obj\Debug\database_2.Form1.resources
+C:\Users\TryLessFold\source\repos\database_2\database_2\obj\Debug\database_2.Properties.Resources.resources
+C:\Users\TryLessFold\source\repos\database_2\database_2\obj\Debug\database_2.csproj.GenerateResource.cache
+C:\Users\TryLessFold\source\repos\database_2\database_2\obj\Debug\database_2.csproj.CoreCompileInputs.cache
+C:\Users\TryLessFold\source\repos\database_2\database_2\obj\Debug\database_2.exe
+C:\Users\TryLessFold\source\repos\database_2\database_2\obj\Debug\database_2.pdb

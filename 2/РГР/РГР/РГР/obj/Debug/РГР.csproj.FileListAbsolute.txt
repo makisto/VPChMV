@@ -1,0 +1,13 @@
+C:\Users\ilja-\source\repos\РГР\РГР\bin\Debug\РГР.accdb
+C:\Users\ilja-\source\repos\РГР\РГР\bin\Debug\РГР.exe.config
+C:\Users\ilja-\source\repos\РГР\РГР\bin\Debug\РГР.exe
+C:\Users\ilja-\source\repos\РГР\РГР\bin\Debug\РГР.pdb
+C:\Users\ilja-\source\repos\РГР\РГР\obj\Debug\РГР.csprojAssemblyReference.cache
+C:\Users\ilja-\source\repos\РГР\РГР\obj\Debug\РГР.Form1.resources
+C:\Users\ilja-\source\repos\РГР\РГР\obj\Debug\РГР.Properties.Resources.resources
+C:\Users\ilja-\source\repos\РГР\РГР\obj\Debug\РГР.csproj.GenerateResource.cache
+C:\Users\ilja-\source\repos\РГР\РГР\obj\Debug\РГР.csproj.CoreCompileInputs.cache
+C:\Users\ilja-\source\repos\РГР\РГР\obj\Debug\РГР.exe
+C:\Users\ilja-\source\repos\РГР\РГР\obj\Debug\РГР.pdb
+C:\Users\ilja-\source\repos\РГР\РГР\obj\Debug\РГР.csproj.ResolveComReference.cache
+C:\Users\ilja-\source\repos\РГР\РГР\obj\Debug\РГР.Form2.resources

@@ -1,0 +1,44 @@
+C:\Users\TryLessFold\source\repos\Lab 2,3\Lab 2,3\bin\Debug\Lab 2,3.exe
+C:\Users\TryLessFold\source\repos\Lab 2,3\Lab 2,3\bin\Debug\Lab 2,3.pdb
+C:\Users\TryLessFold\source\repos\Lab 2,3\Lab 2,3\obj\Debug\Lab 2,3.csprojAssemblyReference.cache
+C:\Users\TryLessFold\source\repos\Lab 2,3\Lab 2,3\obj\Debug\Lab_2_3.Form1.resources
+C:\Users\TryLessFold\source\repos\Lab 2,3\Lab 2,3\obj\Debug\Lab_2_3.Properties.Resources.resources
+C:\Users\TryLessFold\source\repos\Lab 2,3\Lab 2,3\obj\Debug\Lab 2,3.csproj.GenerateResource.cache
+C:\Users\TryLessFold\source\repos\Lab 2,3\Lab 2,3\obj\Debug\Lab 2,3.csproj.CoreCompileInputs.cache
+C:\Users\TryLessFold\source\repos\Lab 2,3\Lab 2,3\obj\Debug\Lab 2,3.exe
+C:\Users\TryLessFold\source\repos\Lab 2,3\Lab 2,3\obj\Debug\Lab 2,3.pdb
+C:\Users\ilja-\Desktop\Lab 2,3\Lab 2,3\bin\Debug\Lab 2,3.exe
+C:\Users\ilja-\Desktop\Lab 2,3\Lab 2,3\bin\Debug\Lab 2,3.pdb
+C:\Users\ilja-\Desktop\Lab 2,3\Lab 2,3\obj\Debug\Lab 2,3.csprojAssemblyReference.cache
+C:\Users\ilja-\Desktop\Lab 2,3\Lab 2,3\obj\Debug\Lab_2_3.Form1.resources
+C:\Users\ilja-\Desktop\Lab 2,3\Lab 2,3\obj\Debug\Lab_2_3.Form2.resources
+C:\Users\ilja-\Desktop\Lab 2,3\Lab 2,3\obj\Debug\Lab_2_3.Properties.Resources.resources
+C:\Users\ilja-\Desktop\Lab 2,3\Lab 2,3\obj\Debug\Lab 2,3.csproj.GenerateResource.cache
+C:\Users\ilja-\Desktop\Lab 2,3\Lab 2,3\obj\Debug\Lab 2,3.csproj.CoreCompileInputs.cache
+C:\Users\ilja-\Desktop\Lab 2,3\Lab 2,3\obj\Debug\Lab 2,3.exe
+C:\Users\ilja-\Desktop\Lab 2,3\Lab 2,3\obj\Debug\Lab 2,3.pdb
+E:\Lab 2,3\Lab 2,3\obj\Debug\Lab 2,3.csprojAssemblyReference.cache
+E:\Lab 2,3\Lab 2,3\obj\Debug\Lab_2_3.Form1.resources
+E:\Lab 2,3\Lab 2,3\obj\Debug\Lab_2_3.Form2.resources
+E:\Lab 2,3\Lab 2,3\obj\Debug\Lab_2_3.Properties.Resources.resources
+E:\Lab 2,3\Lab 2,3\obj\Debug\Lab 2,3.csproj.GenerateResource.cache
+E:\Lab 2,3\Lab 2,3\obj\Debug\Lab 2,3.csproj.CoreCompileInputs.cache
+E:\Lab 2,3\Lab 2,3\obj\Debug\Lab 2,3.exe
+E:\Lab 2,3\Lab 2,3\obj\Debug\Lab 2,3.pdb
+E:\Lab 2,3\Lab 2,3\bin\Debug\Lab 2,3.exe
+E:\Lab 2,3\Lab 2,3\bin\Debug\Lab 2,3.pdb
+E:\Lab 2,3\Lab 2,3\obj\Debug\Lab_2_3.Form3.resources
+C:\Users\ilja-\Desktop\Lab 2,3\Lab 2,3\obj\Debug\Lab_2_3.Form3.resources
+E:\СибГУТИ\2 курс\4 семестр\ВПиЧМВ\Lab 2,3\Lab 2,3\obj\Debug\Lab 2,3.exe
+E:\СибГУТИ\2 курс\4 семестр\ВПиЧМВ\Lab 2,3\Lab 2,3\obj\Debug\Lab 2,3.pdb
+C:\Users\ilja-\Downloads\Универ\СибГУТИ\2 курс\4 семестр\ВПиЧМВ\Lab 2,3\Lab 2,3\bin\Debug\Lab 2,3.exe
+C:\Users\ilja-\Downloads\Универ\СибГУТИ\2 курс\4 семестр\ВПиЧМВ\Lab 2,3\Lab 2,3\bin\Debug\Lab 2,3.pdb
+C:\Users\ilja-\Downloads\Универ\СибГУТИ\2 курс\4 семестр\ВПиЧМВ\Lab 2,3\Lab 2,3\obj\Debug\Lab 2,3.csprojAssemblyReference.cache
+C:\Users\ilja-\Downloads\Универ\СибГУТИ\2 курс\4 семестр\ВПиЧМВ\Lab 2,3\Lab 2,3\obj\Debug\Lab_2_3.Form1.resources
+C:\Users\ilja-\Downloads\Универ\СибГУТИ\2 курс\4 семестр\ВПиЧМВ\Lab 2,3\Lab 2,3\obj\Debug\Lab_2_3.Form2.resources
+C:\Users\ilja-\Downloads\Универ\СибГУТИ\2 курс\4 семестр\ВПиЧМВ\Lab 2,3\Lab 2,3\obj\Debug\Lab_2_3.Form3.resources
+C:\Users\ilja-\Downloads\Универ\СибГУТИ\2 курс\4 семестр\ВПиЧМВ\Lab 2,3\Lab 2,3\obj\Debug\Lab_2_3.Properties.Resources.resources
+C:\Users\ilja-\Downloads\Универ\СибГУТИ\2 курс\4 семестр\ВПиЧМВ\Lab 2,3\Lab 2,3\obj\Debug\Lab 2,3.csproj.GenerateResource.cache
+C:\Users\ilja-\Downloads\Универ\СибГУТИ\2 курс\4 семестр\ВПиЧМВ\Lab 2,3\Lab 2,3\obj\Debug\Lab 2,3.csproj.CoreCompileInputs.cache
+C:\Users\ilja-\Downloads\Универ\СибГУТИ\2 курс\4 семестр\ВПиЧМВ\Lab 2,3\Lab 2,3\obj\Debug\Lab 2,3.exe
+C:\Users\ilja-\Downloads\Универ\СибГУТИ\2 курс\4 семестр\ВПиЧМВ\Lab 2,3\Lab 2,3\obj\Debug\Lab 2,3.pdb

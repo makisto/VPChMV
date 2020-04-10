@@ -1,0 +1,30 @@
+C:\Users\TryLessFold\source\repos\database_2\database_2\bin\x86\Debug\Database1.mdb
+C:\Users\TryLessFold\source\repos\database_2\database_2\bin\x86\Debug\database_2.exe
+C:\Users\TryLessFold\source\repos\database_2\database_2\bin\x86\Debug\database_2.pdb
+C:\Users\TryLessFold\source\repos\database_2\database_2\obj\x86\Debug\database_2.csprojAssemblyReference.cache
+C:\Users\TryLessFold\source\repos\database_2\database_2\obj\x86\Debug\database_2.Form1.resources
+C:\Users\TryLessFold\source\repos\database_2\database_2\obj\x86\Debug\database_2.Properties.Resources.resources
+C:\Users\TryLessFold\source\repos\database_2\database_2\obj\x86\Debug\database_2.csproj.GenerateResource.cache
+C:\Users\TryLessFold\source\repos\database_2\database_2\obj\x86\Debug\database_2.csproj.CoreCompileInputs.cache
+C:\Users\TryLessFold\source\repos\database_2\database_2\obj\x86\Debug\database_2.exe
+C:\Users\TryLessFold\source\repos\database_2\database_2\obj\x86\Debug\database_2.pdb
+C:\Users\ilja-\Desktop\database_2\database_2\bin\x86\Debug\Database1.mdb
+C:\Users\ilja-\Desktop\database_2\database_2\bin\x86\Debug\database_2.exe
+C:\Users\ilja-\Desktop\database_2\database_2\bin\x86\Debug\database_2.pdb
+C:\Users\ilja-\Desktop\database_2\database_2\obj\x86\Debug\database_2.csprojAssemblyReference.cache
+C:\Users\ilja-\Desktop\database_2\database_2\obj\x86\Debug\database_2.Form1.resources
+C:\Users\ilja-\Desktop\database_2\database_2\obj\x86\Debug\database_2.Properties.Resources.resources
+C:\Users\ilja-\Desktop\database_2\database_2\obj\x86\Debug\database_2.csproj.GenerateResource.cache
+C:\Users\ilja-\Desktop\database_2\database_2\obj\x86\Debug\database_2.csproj.CoreCompileInputs.cache
+C:\Users\ilja-\Desktop\database_2\database_2\obj\x86\Debug\database_2.exe
+C:\Users\ilja-\Desktop\database_2\database_2\obj\x86\Debug\database_2.pdb
+H:\СибГУТИ\2 курс\4 семестр\ВПиЧМВ\Lab7\database_2\bin\x86\Debug\Database1.mdb
+H:\СибГУТИ\2 курс\4 семестр\ВПиЧМВ\Lab7\database_2\bin\x86\Debug\database_2.exe
+H:\СибГУТИ\2 курс\4 семестр\ВПиЧМВ\Lab7\database_2\bin\x86\Debug\database_2.pdb
+H:\СибГУТИ\2 курс\4 семестр\ВПиЧМВ\Lab7\database_2\obj\x86\Debug\database_2.csprojAssemblyReference.cache
+H:\СибГУТИ\2 курс\4 семестр\ВПиЧМВ\Lab7\database_2\obj\x86\Debug\database_2.Form1.resources
+H:\СибГУТИ\2 курс\4 семестр\ВПиЧМВ\Lab7\database_2\obj\x86\Debug\database_2.Properties.Resources.resources
+H:\СибГУТИ\2 курс\4 семестр\ВПиЧМВ\Lab7\database_2\obj\x86\Debug\database_2.csproj.GenerateResource.cache
+H:\СибГУТИ\2 курс\4 семестр\ВПиЧМВ\Lab7\database_2\obj\x86\Debug\database_2.csproj.CoreCompileInputs.cache
+H:\СибГУТИ\2 курс\4 семестр\ВПиЧМВ\Lab7\database_2\obj\x86\Debug\database_2.exe
+H:\СибГУТИ\2 курс\4 семестр\ВПиЧМВ\Lab7\database_2\obj\x86\Debug\database_2.pdb

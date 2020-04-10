@@ -1,0 +1,35 @@
+CREATE TABLE Service (
+    ServiceId INTEGER PRIMARY KEY AUTOINCREMENT,
+    Name      TEXT    NOT NULL,
+    Price     REAL    NOT NULL
+);
+
+CREATE TABLE Client (
+    ClientId  INTEGER PRIMARY KEY AUTOINCREMENT
+                      NOT NULL,
+    FIO       TEXT    NOT NULL,
+    BirthDate TEXT    NOT NULL,
+    Phone     TEXT    NOT NULL,
+    Passport  TEXT,
+    Address   TEXT    NOT NULL,
+    Email     TEXT    NOT NULL
+);
+
+CREATE TABLE Visit (
+    VisitId        INTEGER  PRIMARY KEY AUTOINCREMENT
+                            NOT NULL,
+    ClientId       INTEGER  NOT NULL,
+    DoctorFIO      TEXT     NOT NULL,
+    MedCard        TEXT     NOT NULL,
+    DateVisit      DATETIME NOT NULL,
+    Sum            REAL,
+    Status         TEXT     NOT NULL,
+    DoctorPosition TEXT     NOT NULL
+);
+
+CREATE TABLE VisitService (
+    VisitServiceId INTEGER PRIMARY KEY AUTOINCREMENT
+                           NOT NULL,
+    VisitId        INTEGER NOT NULL,
+    ServiceId      INTEGER NOT NULL
+);

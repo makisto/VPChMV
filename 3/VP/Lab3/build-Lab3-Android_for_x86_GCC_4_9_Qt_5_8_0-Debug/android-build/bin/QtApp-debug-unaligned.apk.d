@@ -1,0 +1,20 @@
+C:\Users\ilja-\Downloads\VP\Lab3\build-Lab3-Android_for_x86_GCC_4_9_Qt_5_8_0-Debug\android-build\bin\QtApp-debug-unaligned.apk : \
+C:\Users\ilja-\Downloads\VP\Lab3\build-Lab3-Android_for_x86_GCC_4_9_Qt_5_8_0-Debug\android-build\bin\QtApp.ap_ \
+C:\Users\ilja-\Downloads\VP\Lab3\build-Lab3-Android_for_x86_GCC_4_9_Qt_5_8_0-Debug\android-build\bin\classes.dex \
+C:\Users\ilja-\Downloads\VP\Lab3\build-Lab3-Android_for_x86_GCC_4_9_Qt_5_8_0-Debug\android-build\libs\QtAndroid-bundled.jar \
+C:\Users\ilja-\Downloads\VP\Lab3\build-Lab3-Android_for_x86_GCC_4_9_Qt_5_8_0-Debug\android-build\libs\x86\gdbserver \
+C:\Users\ilja-\Downloads\VP\Lab3\build-Lab3-Android_for_x86_GCC_4_9_Qt_5_8_0-Debug\android-build\libs\x86\libgdbserver.so \
+C:\Users\ilja-\Downloads\VP\Lab3\build-Lab3-Android_for_x86_GCC_4_9_Qt_5_8_0-Debug\android-build\libs\x86\libgnustl_shared.so \
+C:\Users\ilja-\Downloads\VP\Lab3\build-Lab3-Android_for_x86_GCC_4_9_Qt_5_8_0-Debug\android-build\libs\x86\libLab3.so \
+C:\Users\ilja-\Downloads\VP\Lab3\build-Lab3-Android_for_x86_GCC_4_9_Qt_5_8_0-Debug\android-build\libs\x86\libplugins_imageformats_libqgif.so \
+C:\Users\ilja-\Downloads\VP\Lab3\build-Lab3-Android_for_x86_GCC_4_9_Qt_5_8_0-Debug\android-build\libs\x86\libplugins_imageformats_libqicns.so \
+C:\Users\ilja-\Downloads\VP\Lab3\build-Lab3-Android_for_x86_GCC_4_9_Qt_5_8_0-Debug\android-build\libs\x86\libplugins_imageformats_libqico.so \
+C:\Users\ilja-\Downloads\VP\Lab3\build-Lab3-Android_for_x86_GCC_4_9_Qt_5_8_0-Debug\android-build\libs\x86\libplugins_imageformats_libqjpeg.so \
+C:\Users\ilja-\Downloads\VP\Lab3\build-Lab3-Android_for_x86_GCC_4_9_Qt_5_8_0-Debug\android-build\libs\x86\libplugins_imageformats_libqtga.so \
+C:\Users\ilja-\Downloads\VP\Lab3\build-Lab3-Android_for_x86_GCC_4_9_Qt_5_8_0-Debug\android-build\libs\x86\libplugins_imageformats_libqtiff.so \
+C:\Users\ilja-\Downloads\VP\Lab3\build-Lab3-Android_for_x86_GCC_4_9_Qt_5_8_0-Debug\android-build\libs\x86\libplugins_imageformats_libqwbmp.so \
+C:\Users\ilja-\Downloads\VP\Lab3\build-Lab3-Android_for_x86_GCC_4_9_Qt_5_8_0-Debug\android-build\libs\x86\libplugins_imageformats_libqwebp.so \
+C:\Users\ilja-\Downloads\VP\Lab3\build-Lab3-Android_for_x86_GCC_4_9_Qt_5_8_0-Debug\android-build\libs\x86\libplugins_platforms_android_libqtforandroid.so \
+C:\Users\ilja-\Downloads\VP\Lab3\build-Lab3-Android_for_x86_GCC_4_9_Qt_5_8_0-Debug\android-build\libs\x86\libQt5Core.so \
+C:\Users\ilja-\Downloads\VP\Lab3\build-Lab3-Android_for_x86_GCC_4_9_Qt_5_8_0-Debug\android-build\libs\x86\libQt5Gui.so \
+C:\Users\ilja-\Downloads\VP\Lab3\build-Lab3-Android_for_x86_GCC_4_9_Qt_5_8_0-Debug\android-build\libs\x86\libQt5Widgets.so \

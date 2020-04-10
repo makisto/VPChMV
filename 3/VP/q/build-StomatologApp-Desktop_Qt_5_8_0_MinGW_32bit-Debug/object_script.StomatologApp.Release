@@ -1,0 +1,16 @@
+INPUT(
+./release\main.o
+./release\visitwindow.o
+./release\addvisit.o
+./release\addclientwindow.o
+./release\constants.o
+./release\addserviceform.o
+./release\servicelistwindow.o
+./release\forminfo.o
+./release\moc_visitwindow.o
+./release\moc_addvisit.o
+./release\moc_addclientwindow.o
+./release\moc_addserviceform.o
+./release\moc_servicelistwindow.o
+./release\moc_forminfo.o
+);

@@ -1,0 +1,22 @@
+C:\Users\ilja-\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\База данных3.accdb
+C:\Users\ilja-\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ilja-\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ilja-\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ilja-\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\ilja-\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\ilja-\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ilja-\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\ilja-\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ilja-\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ilja-\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+H:\СибГУТИ\2 курс\4 семестр\ВПиЧМВ\Lab6\WindowsFormsApp1\bin\Debug\База данных3.accdb
+H:\СибГУТИ\2 курс\4 семестр\ВПиЧМВ\Lab6\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+H:\СибГУТИ\2 курс\4 семестр\ВПиЧМВ\Lab6\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+H:\СибГУТИ\2 курс\4 семестр\ВПиЧМВ\Lab6\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+H:\СибГУТИ\2 курс\4 семестр\ВПиЧМВ\Lab6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+H:\СибГУТИ\2 курс\4 семестр\ВПиЧМВ\Lab6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+H:\СибГУТИ\2 курс\4 семестр\ВПиЧМВ\Lab6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+H:\СибГУТИ\2 курс\4 семестр\ВПиЧМВ\Lab6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+H:\СибГУТИ\2 курс\4 семестр\ВПиЧМВ\Lab6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+H:\СибГУТИ\2 курс\4 семестр\ВПиЧМВ\Lab6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+H:\СибГУТИ\2 курс\4 семестр\ВПиЧМВ\Lab6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

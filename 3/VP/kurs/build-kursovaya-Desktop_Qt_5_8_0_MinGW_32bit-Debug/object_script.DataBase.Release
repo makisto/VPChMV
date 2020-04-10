@@ -1,0 +1,13 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\database.o
+./release\forminfo.o
+./release\addevent.o
+./release\eventadd.o
+./release\moc_mainwindow.o
+./release\moc_database.o
+./release\moc_forminfo.o
+./release\moc_addevent.o
+./release\moc_eventadd.o
+);

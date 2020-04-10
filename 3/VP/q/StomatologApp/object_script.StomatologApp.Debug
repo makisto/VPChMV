@@ -1,0 +1,16 @@
+INPUT(
+./debug\main.o
+./debug\visitwindow.o
+./debug\addvisit.o
+./debug\addclientwindow.o
+./debug\constants.o
+./debug\addserviceform.o
+./debug\servicelistwindow.o
+./debug\forminfo.o
+./debug\moc_visitwindow.o
+./debug\moc_addvisit.o
+./debug\moc_addclientwindow.o
+./debug\moc_addserviceform.o
+./debug\moc_servicelistwindow.o
+./debug\moc_forminfo.o
+);
